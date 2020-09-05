@@ -1,5 +1,6 @@
 {
     "dir": "./",
     "logs": "logs/",
-    "cache": "cache/"
+    "cache": "cache/",
+    "session_ttl": 3600
 }
